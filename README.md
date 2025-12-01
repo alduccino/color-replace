@@ -59,4 +59,6 @@ Your privacy and data security are our top priority. Unlike other online tools, 
 
 image color replacement, color swap tool, batch image processing, image color editor, color changer, image editing tool, online image editor, free image color tool, design tool, color replacement software
 
+## Run the Docker Container
+
 docker compose up -d
