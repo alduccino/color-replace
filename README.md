@@ -65,12 +65,15 @@ image color replacement, color swap tool, batch image processing, image color ed
 ## Install and Run the Docker Container
 
 mkdir -p ~/color-replace
+
 cd ~/color-replace/
 
 git clone https://github.com/summer0512/color-replace.git
+
 cd color-replace
 
 Make sure you're in the right directory
+
 cd ~/color-replace/color-replace
 
 docker compose up -d
