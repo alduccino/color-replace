@@ -68,7 +68,7 @@ mkdir -p ~/color-replace
 
 cd ~/color-replace/
 
-git clone https://github.com/summer0512/color-replace.git
+git clone (https://github.com/alduccino/color-replace.git)
 
 cd color-replace
 
