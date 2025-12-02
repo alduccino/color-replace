@@ -1,3 +1,6 @@
+# Why this Fork ?
+This fork added the possibility to install the original code as a docker container. 
+
 # Image Color Replacement Tool
 
 Free online tool for professional image color replacement. Replace multiple colors simultaneously, batch process images, and maintain quality. No upload needed - process locally in your browser. Perfect for designers, marketers, and content creators.
@@ -59,6 +62,15 @@ Your privacy and data security are our top priority. Unlike other online tools, 
 
 image color replacement, color swap tool, batch image processing, image color editor, color changer, image editing tool, online image editor, free image color tool, design tool, color replacement software
 
-## Run the Docker Container
+## Install and Run the Docker Container
+
+mkdir -p ~/color-replace
+cd ~/color-replace/
+
+git clone https://github.com/summer0512/color-replace.git
+cd color-replace
+
+Make sure you're in the right directory
+cd ~/color-replace/color-replace
 
 docker compose up -d
